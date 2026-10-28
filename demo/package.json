@@ -12,8 +12,8 @@
   },
   "dependencies": {
     "@lydell/node-pty": "^1.0.1",
-    "ghostty-web": "latest",
-    "ws": "^8.18.0"
+    "ghostty-web": "0.4.0",
+    "ws": "^8.21.0"
   },
   "files": [
     "bin",
